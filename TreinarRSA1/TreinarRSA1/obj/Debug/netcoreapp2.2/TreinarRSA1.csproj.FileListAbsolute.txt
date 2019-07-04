@@ -1,0 +1,11 @@
+C:\Users\PEDROMARTINSFALLEIRO\source\repos\TreinarRSA1\TreinarRSA1\bin\Debug\netcoreapp2.2\TreinarRSA1.deps.json
+C:\Users\PEDROMARTINSFALLEIRO\source\repos\TreinarRSA1\TreinarRSA1\bin\Debug\netcoreapp2.2\TreinarRSA1.runtimeconfig.json
+C:\Users\PEDROMARTINSFALLEIRO\source\repos\TreinarRSA1\TreinarRSA1\bin\Debug\netcoreapp2.2\TreinarRSA1.runtimeconfig.dev.json
+C:\Users\PEDROMARTINSFALLEIRO\source\repos\TreinarRSA1\TreinarRSA1\bin\Debug\netcoreapp2.2\TreinarRSA1.dll
+C:\Users\PEDROMARTINSFALLEIRO\source\repos\TreinarRSA1\TreinarRSA1\bin\Debug\netcoreapp2.2\TreinarRSA1.pdb
+C:\Users\PEDROMARTINSFALLEIRO\source\repos\TreinarRSA1\TreinarRSA1\obj\Debug\netcoreapp2.2\TreinarRSA1.csprojAssemblyReference.cache
+C:\Users\PEDROMARTINSFALLEIRO\source\repos\TreinarRSA1\TreinarRSA1\obj\Debug\netcoreapp2.2\TreinarRSA1.csproj.CoreCompileInputs.cache
+C:\Users\PEDROMARTINSFALLEIRO\source\repos\TreinarRSA1\TreinarRSA1\obj\Debug\netcoreapp2.2\TreinarRSA1.AssemblyInfoInputs.cache
+C:\Users\PEDROMARTINSFALLEIRO\source\repos\TreinarRSA1\TreinarRSA1\obj\Debug\netcoreapp2.2\TreinarRSA1.AssemblyInfo.cs
+C:\Users\PEDROMARTINSFALLEIRO\source\repos\TreinarRSA1\TreinarRSA1\obj\Debug\netcoreapp2.2\TreinarRSA1.dll
+C:\Users\PEDROMARTINSFALLEIRO\source\repos\TreinarRSA1\TreinarRSA1\obj\Debug\netcoreapp2.2\TreinarRSA1.pdb
